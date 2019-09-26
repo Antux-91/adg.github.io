@@ -1,13 +1,13 @@
-baseurl = "https://"
+baseurl = "https://antux-91.github.io/adg.github.io"
 title = "Winning"
 theme = "hugo-theme-winning"
 
 disableKinds = ["RSS"]
 defaultContentLanguage = "en"
 enableRobotsTXT = true
-languageCode = "en-us"
+languageCode = "en-GB"
 [taxonomies]
 
 [author]
-    name = "your-name"
-    email = "your-email"
+    name = "Antonio De Gaetano"
+    email = "antoniodegaetano@criptmail.com"
